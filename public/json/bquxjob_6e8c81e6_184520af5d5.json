@@ -1,0 +1,7001 @@
+[{
+  "KindergartenName": "安基司幼稚園(粉嶺)",
+  "District": "北區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "345",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "麥克萊國際幼稚園",
+  "District": "北區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "84",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "嘉德麗幼稚園(粉嶺)",
+  "District": "北區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "65",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "瑪歌瑞特國際幼稚園(粉嶺)",
+  "District": "北區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "52",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "鳳溪幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "690",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "粉嶺神召會幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "616",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "粉嶺浸信會呂明才幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "540",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "佛教沈東福幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "435",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "上水惠州幼稚園(分校)",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "359",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "香港五常法幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "349",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "嘉寶中英文幼稚園(粉嶺)",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "349",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "上水堂幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "342",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "真理浸信會何袁惠琼幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "342",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "神召會華人同工聯會彩蒲幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "293",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "香港宣教會優質幼兒學校",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "290",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "東華三院徐展堂幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "287",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "保良局莊啟程夫人幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "259",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "比諾中英文幼稚園(龍琛路)",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "201",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "上水禮賢會幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "192",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "基督教粉嶺神召會恩光幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "176",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "中華基督教青年會上水幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "175",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "香海正覺蓮社佛教慧光幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "161",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "基督教香港信義會祥華幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "154",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "保良局葉吳彬彬皇后山幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "149",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "九龍城浸信會嘉福幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "147",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "香海正覺蓮社佛教慧光嘉福幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "147",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "神召會華人同工聯會景盛幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "141",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "太平幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "140",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "耀基創藝幼稚園(上水)",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "132",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "明愛打鼓嶺幼兒學校",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "121",
+  "Time": "WD"
+}, {
+  "KindergartenName": "基督徒信望愛堂華明幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "116",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "牽晴間培元英文幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "114",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "救世軍天平幼兒學校",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "104",
+  "Time": "WD"
+}, {
+  "KindergartenName": "東華三院洪王家琪幼兒園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "102",
+  "Time": "WD"
+}, {
+  "KindergartenName": "上水培幼幼稚園【已停辦】",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "99",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "金錢村何東幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "97",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "嘉福浸信會幼兒園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "97",
+  "Time": "WD"
+}, {
+  "KindergartenName": "鄰舍輔導會粉嶺幼兒園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "92",
+  "Time": "WD"
+}, {
+  "KindergartenName": "耀基創藝幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "91",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "新界婦孺福利會上水幼兒學校",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "90",
+  "Time": "WD"
+}, {
+  "KindergartenName": "仁濟醫院永隆幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "89",
+  "Time": "WD"
+}, {
+  "KindergartenName": "明愛香港崇德社幼兒學校",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "88",
+  "Time": "WD"
+}, {
+  "KindergartenName": "新界婦孺福利會粉嶺幼兒學校",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "80",
+  "Time": "WD"
+}, {
+  "KindergartenName": "聖誕老人愛心粉嶺幼兒學校",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "78",
+  "Time": "WD"
+}, {
+  "KindergartenName": "基督教香港信義會祥華幼稚園",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "74",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "東華三院方樹福堂幼稚園(皇后山)",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "-",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "比諾中英文幼稚園(上水中心)",
+  "District": "北區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "-",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "加拿大國際學校",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "450",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "新加坡國際學校",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "360",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "維多利亞(海怡)國際幼稚園",
+  "District": "南區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "308",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "右思維幼稚園",
+  "District": "南區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "203",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "蒙特梭利國際學校",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "150",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "德瑞國際學校",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "146",
+  "Time": "AM"
+}, {
+  "KindergartenName": "樂林國際學校(海灘道)",
+  "District": "南區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "144",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "蒙特梭利國際學校",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "140",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "栢基國際幼稚園",
+  "District": "南區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "127",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "意大利國際幼稚園",
+  "District": "南區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "114",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "樂林蒙特梭利學校(淺水灣)",
+  "District": "南區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "108",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "啟歷學校(薄扶林)",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "105",
+  "Time": "WD"
+}, {
+  "KindergartenName": "諾德安達國際幼稚園(大潭)",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "100",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "樂林國際學校(薄扶林)",
+  "District": "南區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "81",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "Montessori for Children",
+  "District": "南區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "67",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "Guidepost 蒙特梭利國際幼稚園(薄扶林)",
+  "District": "南區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "50",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "懋柏禮國際幼稚園(南區)",
+  "District": "南區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "-",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "啟思幼稚園(深灣軒)",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "301",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "東華三院田灣幼稚園",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "252",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "香港仔浸信會白光幼稚園",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "240",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖文嘉中英文幼稚園",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "197",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "天主教聖伯多祿幼稚園",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "193",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖文嘉中英文幼稚園(華貴邨)",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "193",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "嗇色園主辦可仁幼稚園",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "163",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "迦南幼稚園(香港)",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "160",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "聖德蘭幼稚園",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "143",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "基督教海面傳道會仁愛幼稚園",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "135",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "聖公會聖彼得堂幼稚園(赤柱分校)",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "124",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "救世軍華富幼兒學校",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "117",
+  "Time": "WD"
+}, {
+  "KindergartenName": "保良局莊啟程夫人(華貴)幼稚園",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "114",
+  "Time": "WD"
+}, {
+  "KindergartenName": "基督教宣道會海怡幼兒學校",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "101",
+  "Time": "WD"
+}, {
+  "KindergartenName": "循道衞理田灣幼稚園",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "90",
+  "Time": "WD"
+}, {
+  "KindergartenName": "基督教宣道會利東幼兒學校",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "88",
+  "Time": "WD"
+}, {
+  "KindergartenName": "東華三院蕭旺李滿福幼兒園",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "87",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港西區婦女福利會鴨脷洲邨幼稚園",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "81",
+  "Time": "WD"
+}, {
+  "KindergartenName": "路德會利東幼兒園",
+  "District": "南區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "68",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "蘇浙小學校",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "1264",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "高主教書院幼稚園部",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "774",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "維多利亞幼兒園(海峰園)",
+  "District": "東區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "420",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "銅鑼灣維多利亞國際幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "420",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "維多利亞幼兒園暨幼稚園(下康怡)",
+  "District": "東區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "352",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "學之園幼稚園(君豪峰)",
+  "District": "東區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "336",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "聖安娜中英文幼稚園(非本地課程)",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "231",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "香港民生幼稚園(北角)",
+  "District": "東區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "229",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "明慧國際幼稚園(北角分校)",
+  "District": "東區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "223",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "維多利亞幼兒園暨幼稚園(中康怡)",
+  "District": "東區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "214",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "銅鑼灣維多利亞幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "194",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "多多國際幼稚園(寶馬山)",
+  "District": "東區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "168",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "Hamilton Hill 國際幼稚園",
+  "District": "東區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "152",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "銅鑼灣維多利亞幼兒園",
+  "District": "東區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "134",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "樂䔄幼稚園(海峰園)",
+  "District": "東區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "122",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "奧伊斯嘉日本語幼稚園",
+  "District": "東區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "117",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "明慧幼稚園",
+  "District": "東區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "93",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "蒙特梭利國際學校",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "72",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "雅惠國際幼稚園(鯉景灣)",
+  "District": "東區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "72",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "港島兒童蒙特梭利幼稚園(天后)",
+  "District": "東區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "60",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "韓國國際學校",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "59",
+  "Time": "WD"
+}, {
+  "KindergartenName": "漢廸國際幼稚園(港島東)",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "58",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "Mori Lisa 國際幼稚園",
+  "District": "東區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "58",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "ABC Pathways 國際幼稚園(太古校舍)",
+  "District": "東區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "56",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "港島兒童蒙特梭利幼稚園(鯉景灣)",
+  "District": "東區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "42",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "港島兒童蒙特梭利國際幼兒園及幼稚園(北角)",
+  "District": "東區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "40",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "Guidepost 蒙特梭利國際幼稚園(柴灣)",
+  "District": "東區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "40",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "明慧國際幼稚園",
+  "District": "東區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "8",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "漢基國際學校",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "-",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "維多利亞(康怡)幼兒園",
+  "District": "東區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "-",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "樂䔄幼稚園",
+  "District": "東區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "-",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "瑪歌瑞特國際幼稚園(康怡)",
+  "District": "東區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "-",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "明我幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "666",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "北角衞理堂幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "584",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "浸信會培理學校",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "556",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖保羅堂幼稚園(北角)",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "489",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "迦南幼稚園(小西灣)",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "420",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "合一堂陳伯宏紀念幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "266",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "宣道會上書房中英文幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "261",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "聖安娜中英文幼稚園(本地課程)",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "231",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖道明中英文幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "230",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "北角聖彼得堂幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "196",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "筲箕灣循道衞理幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "175",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "東華三院方樹福堂幼稚園(小西灣)",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "174",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "路德會錫安堂幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "172",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "欣苗幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "169",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "耀東浸信會幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "166",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "新翠培元幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "161",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "懷恩浸信會幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "159",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "基督教康山中英文幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "157",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "保良局慧妍雅集幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "156",
+  "Time": "WD"
+}, {
+  "KindergartenName": "嶺南幼稚園(小西灣)",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "146",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "啟思幼稚園(杏花邨)",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "135",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "循道衞理聯合教會愛華村堂幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "130",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "勵志會陳鄭潔雲幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "128",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "路德會聖雅各幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "123",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "筲箕灣街坊福利會張錦添紀念幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "122",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "粵南信義會腓力堂興民幼兒學園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "112",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "天主教海星幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "104",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "怡寶中英文幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "104",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "香港保護兒童會胡好幼兒學校【已停辦】",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "104",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港中國婦女會幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "99",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港東區婦女福利會黎桂添幼兒園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "97",
+  "Time": "WD"
+}, {
+  "KindergartenName": "柴灣浸信會學前教育中心呂明才幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "96",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "青松興東幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "92",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "香港青年協會青樂幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "91",
+  "Time": "WD"
+}, {
+  "KindergartenName": "明愛香港太平洋獅子會幼兒學校",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "90",
+  "Time": "WD"
+}, {
+  "KindergartenName": "柴灣浸信會學前教育中心呂明才幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "90",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "港九街坊婦女會環翠幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "90",
+  "Time": "WD"
+}, {
+  "KindergartenName": "筲箕灣崇真幼兒學校",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "89",
+  "Time": "WD"
+}, {
+  "KindergartenName": "東華三院方樹泉幼兒園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "88",
+  "Time": "WD"
+}, {
+  "KindergartenName": "基督教香港信義會興華幼兒學校",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "88",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港東區婦女福利會幼兒園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "87",
+  "Time": "WD"
+}, {
+  "KindergartenName": "東華三院捷和鄭氏幼兒園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "86",
+  "Time": "WD"
+}, {
+  "KindergartenName": "港九街坊婦女會丁毓珠幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "83",
+  "Time": "WD"
+}, {
+  "KindergartenName": "聖公會主誕堂幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "80",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "中華基督教會柴灣堂幼兒園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "75",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "香港浸信會聯會耀興幼稚園【已停辦】",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "71",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "雅然中英文幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "71",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "路德會杏花邨幼兒園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "64",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "寶寶幼兒學校",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "62",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "救世軍北角幼兒學校",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "35",
+  "Time": "WD"
+}, {
+  "KindergartenName": "嶺南幼稚園(小西灣)二校",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "21",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "伊斯蘭徐錦享紀念幼稚園",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "-",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "北角衞理堂幼稚園(炮台山)",
+  "District": "東區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "-",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "KindergartenName",
+  "District": "District",
+  "Type": "Type",
+  "Free": "Free",
+  "Scope": "Scope",
+  "Time": "Time"
+}, {
+  "KindergartenName": "弘立幼稚園",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "416",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "維多利亞(寶翠園)幼稚園",
+  "District": "中西區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "300",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "樂林蒙特梭利學校(堅道)",
+  "District": "中西區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "257",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "Small World 幼稚園",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "198",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "香港墨爾文國際幼稚園(港島西)",
+  "District": "中西區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "158",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "Wilderness 國際幼稚園",
+  "District": "中西區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "146",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "Guidepost 蒙特梭利國際幼稚園(堅尼地城)",
+  "District": "中西區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "140",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "楓薈幼稚園",
+  "District": "中西區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "125",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "香港猶太教國際學校",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "101",
+  "Time": "AM"
+}, {
+  "KindergartenName": "City Kids Preschool and Playgroup",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "95",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "香港民生幼稚園(西區)",
+  "District": "中西區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "75",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "蒙特梭利國際學校",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "74",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "約克國際幼稚園(香港島)",
+  "District": "中西區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "74",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "香港國際蒙特梭利學校(中環)",
+  "District": "中西區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "60",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "Highgate House School - The Peak",
+  "District": "中西區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "58",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "樂林國際學校(堅尼地城)",
+  "District": "中西區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "58",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "奧恩國際幼稚園",
+  "District": "中西區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "49",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "香島華德福學校",
+  "District": "中西區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "47",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "Les Petits Lascars 國際幼稚園",
+  "District": "中西區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "45",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "盈思幼稚園",
+  "District": "中西區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "43",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "港灣學校",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "40",
+  "Time": "WD"
+}, {
+  "KindergartenName": "籽苗幼稚園",
+  "District": "中西區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "26",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "多多國際幼稚園(半山)",
+  "District": "中西區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "25",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "偉思幼兒園",
+  "District": "中西區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "-",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "嘉諾撒聖心幼稚園",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "600",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "救恩學校(幼稚園部)",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "540",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "禮賢會學校",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "476",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "聖保羅堂幼稚園",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "412",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "偉思幼稚園",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "371",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖嘉勒小學暨幼稚園",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "358",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "香港真光幼稚園(堅道)",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "256",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "太陽島英文幼稚園(卑路乍街分校)",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "225",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖士提反堂幼稚園",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "218",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "明愛凌月仙幼稚園",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "190",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "聖士提反女子中學附屬幼稚園",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "180",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "聖馬太堂幼稚園",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "145",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "靈恩學校",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "136",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖雅各福群會寶翠園幼稚園",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "121",
+  "Time": "WD"
+}, {
+  "KindergartenName": "卓基英文學校暨幼稚園",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "111",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "潮陽幼稚園",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "105",
+  "Time": "WD"
+}, {
+  "KindergartenName": "仁濟醫院郭子樑幼稚園",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "104",
+  "Time": "WD"
+}, {
+  "KindergartenName": "明愛堅尼地城幼兒學校",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "99",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港基督教女青年會戴翰芬幼兒學校",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "87",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港保護兒童會譚雅士幼兒學校",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "86",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港西區婦女福利會幼稚園",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "82",
+  "Time": "WD"
+}, {
+  "KindergartenName": "基督教香港信義會基恩幼兒學校",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "81",
+  "Time": "WD"
+}, {
+  "KindergartenName": "仁濟醫院方江輝幼稚園",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "80",
+  "Time": "WD"
+}, {
+  "KindergartenName": "明愛聖方濟各幼稚園",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "70",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "聖安多尼中英文小學暨幼稚園",
+  "District": "中西區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "-",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "根德園幼稚園",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "1705",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "國際英文幼稚園",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "1456",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "民生書院幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "1264",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "香港培正小學(幼稚園)",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "948",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "約克國際幼稚園",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "724",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "啟思小學附屬幼稚園",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "630",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "國際英文幼稚園",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "586",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "金巴倫英文幼稚園",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "506",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "九龍方方樂趣幼稚園",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "413",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "宣道幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "382",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "約克英文小學暨幼稚園(九龍塘)",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "381",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "劍鳴幼稚園",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "368",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "學之園幼稚園(昇御海逸)",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "348",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "威廉(睿智)幼稚園(非本地課程)",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "263",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "維多利亞(何文田)國際幼兒園",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "262",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "美國國際學校",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "231",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "安菲爾國際幼稚園",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "225",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "基督堂幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "214",
+  "Time": "AM"
+}, {
+  "KindergartenName": "德寶國際幼兒學校(第七期)",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "204",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "耀中幼稚園(森麻實道)",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "182",
+  "Time": "WD"
+}, {
+  "KindergartenName": "京斯敦國際幼稚園",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "176",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "聖若望英文書院",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "175",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖若望英文書院",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "175",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "Kowloon Baptist Church Kindergarten",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "158",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "耀中國際學校",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "152",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "多多國際幼稚園(九龍塘)",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "138",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "文娜雅拔幼稚園(九龍塘)",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "134",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "德萃幼稚園(紅磡)",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "127",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "安菲爾國際幼稚園",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "121",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "啟思幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "120",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "伽利利國際幼稚園",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "107",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "聖姬莉國際幼稚園",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "98",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "瑪歌瑞特國際幼稚園(黃埔)",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "95",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "耀中國際幼稚園(窩打老道)",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "93",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港澳洲國際學校",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "90",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "嘉德麗幼稚園(黃埔)",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "88",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "約克英文小學暨幼稚園(九龍塘)",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "86",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "樂沛兒幼稚園",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "86",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "維多利亞(何文田)國際幼稚園",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "82",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "英藝幼稚園(九龍塘)",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "77",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "新加坡卓薈國際幼稚園(界限街)",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "77",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "Dibber 國際幼稚園(黃埔)",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "61",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "Kohitsuji Kindergarten",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "46",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "施德福英文幼稚園",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "29",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "約克中英文幼稚園",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "22",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "耀中國際幼稚園(根德道)",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "-",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "國際英文幼稚園",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "-",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "約克國際幼稚園",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "-",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "ABC Pathways 國際幼稚園(黃埔校舍)",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "-",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "九龍真光中學(幼稚園部)",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "-",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "朗思國際學校",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "-",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "茵晴幼稚園",
+  "District": "九龍城",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "-",
+  "Time": "AM"
+}, {
+  "KindergartenName": "迦南幼稚園(九龍塘)",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "784",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "香港培道小學幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "720",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "香港創價幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "652",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "聖羅撒幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "600",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "保良局譚歐陽少芳紀念幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "506",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "太陽島英文幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "365",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖公會聖三一堂曾肇添幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "360",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "迦南幼稚園(黃埔花園)",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "358",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "九龍靈糧堂幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "349",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "保良局李徐松聲紀念幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "338",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "迦南幼稚園(窩打老道)",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "330",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "香港浸會大學附屬幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "300",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "聖三一中心幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "295",
+  "Time": "WD"
+}, {
+  "KindergartenName": "神召第一小學暨幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "294",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "九龍迦南中英文幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "288",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "威廉(睿智)幼稚園(黃埔)",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "263",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "佛教陳策文伉儷幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "260",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "九龍城浸信會幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "257",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "德寶中英文幼稚園(黃埔花園)",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "241",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "協恩中學附屬幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "240",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "美雅幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "221",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "美雅幼稚園(分校)",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "219",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "基督教中心幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "210",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "太陽島英文幼稚園(樂民)",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "208",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖公會牧愛幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "192",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "聖馬可堂白普理幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "191",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "九龍靈糧堂幼兒園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "184",
+  "Time": "WD"
+}, {
+  "KindergartenName": "漢師幼稚園(龍總)",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "174",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "保良局林丁麗玲幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "172",
+  "Time": "WD"
+}, {
+  "KindergartenName": "路德會包美達幼兒園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "144",
+  "Time": "WD"
+}, {
+  "KindergartenName": "何文田浸信會幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "141",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖文嘉幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "138",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "保良局呂陳慧貞幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "134",
+  "Time": "WD"
+}, {
+  "KindergartenName": "港青基信幼稚園(啟晴)",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "131",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "保良局陳黎惠蓮幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "123",
+  "Time": "WD"
+}, {
+  "KindergartenName": "救世軍樂民幼兒學校",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "123",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港保護兒童會馬頭涌幼兒學校",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "99",
+  "Time": "WD"
+}, {
+  "KindergartenName": "嗇色園主辦可愛幼兒園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "98",
+  "Time": "WD"
+}, {
+  "KindergartenName": "基督教香港崇真會安基幼兒學校",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "95",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港保護兒童會新航黃埔幼兒學校",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "92",
+  "Time": "WD"
+}, {
+  "KindergartenName": "港青基信幼兒學校(農圃道)",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "92",
+  "Time": "WD"
+}, {
+  "KindergartenName": "博愛醫院任永賢夫人幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "90",
+  "Time": "WD"
+}, {
+  "KindergartenName": "九龍婦女福利會幼稚園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "89",
+  "Time": "WD"
+}, {
+  "KindergartenName": "何文田循道衞理楊震幼兒學校",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "88",
+  "Time": "WD"
+}, {
+  "KindergartenName": "東華三院羅黃碧珊幼兒園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "88",
+  "Time": "WD"
+}, {
+  "KindergartenName": "閩光書院幼稚園部",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "77",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "粵南信義會腓力堂馬頭圍幼兒學園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "65",
+  "Time": "WD"
+}, {
+  "KindergartenName": "美雅幼兒園",
+  "District": "九龍城",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "29",
+  "Time": "WD"
+}, {
+  "KindergartenName": "萊恩幼稚園(元朗)",
+  "District": "元朗區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "674",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "約克蒙特梭利國際幼稚園(元朗)",
+  "District": "元朗區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "243",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "萊恩英文幼稚園",
+  "District": "元朗區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "240",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "德怡國際幼稚園(元朗)",
+  "District": "元朗區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "199",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "多多國際幼稚園(形點)",
+  "District": "元朗區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "168",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "英藝幼稚園(賞湖)",
+  "District": "元朗區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "131",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "英藝幼稚園(元朗)",
+  "District": "元朗區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "116",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "艾蒙特國際幼稚園",
+  "District": "元朗區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "110",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "心怡天地國際幼稚園(元朗)",
+  "District": "元朗區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "84",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "珈琳中英文幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "975",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖馬提亞堂肖珍幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "730",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "元朗堂真光幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "648",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "天樂幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "616",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "激活幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "600",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "元朗信義會生命幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "540",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "中華基督教會元朗堂真光幼稚園二校",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "538",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "新界神召會懷恩幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "428",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "宣道會陳李詠貞紀念幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "416",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "翰林幼稚園(天水圍)",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "386",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "基督教宣道會錦綉幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "367",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "朗屏邨真光幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "364",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "元朗三育幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "360",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "元朗商會幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "320",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖公會聖約瑟堂幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "319",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "佛教慈光幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "318",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "保良局郭羅桂珍幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "317",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "太陽島英文幼稚園(元朗分校)",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "308",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "朗屏邨聖恩幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "305",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "佳寶幼稚園第三分校(天瑞邨)",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "269",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "雅麗斯俊宏軒幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "256",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "遵道幼稚園(南邊圍地段102號)",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "250",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "遵道幼稚園(南邊圍地段239號)",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "250",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "基督教聖約教會小天使(天盛)幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "229",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "麗晶幼稚園分校",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "227",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "圓玄幼稚園(天逸邨)",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "222",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "英臻幼稚園【已停辦】",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "217",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "元朗公立中學校友會劉良驤紀念幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "210",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "平安福音堂幼稚園(天水圍)",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "210",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "天純幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "198",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "東華三院黃朱惠芬幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "190",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "天主教聖葉理諾幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "181",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "晶晶中英文幼稚園(洪水橋分校)",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "179",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "保良局曾星如幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "171",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "中華基督教青年會幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "167",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "仁濟醫院明德幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "166",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "鄰舍輔導會元朗幼兒園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "163",
+  "Time": "WD"
+}, {
+  "KindergartenName": "世德幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "154",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "青衣商會天水圍幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "151",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "Sagarmatha Kindergarten",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "150",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "天水圍宣道幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "146",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "嗇色園主辦可瑞幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "144",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "香海正覺蓮社佛教林黃明慧幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "140",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "大埔浸信會幼稚園天澤邨分校",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "139",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "元朗東莞同鄉會熊定嘉幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "136",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "香港中文大學校友會聯會陳震夏幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "131",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "浸信會華恩幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "126",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "香港中文大學校友會聯會順龍仁澤幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "126",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "中華基督教會元朗堂周宋主愛幼兒園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "125",
+  "Time": "WD"
+}, {
+  "KindergartenName": "基督教宣道會天頌幼兒學校",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "118",
+  "Time": "WD"
+}, {
+  "KindergartenName": "元朗東莞同鄉會王少強夫人幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "115",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "博愛醫院陳潘佩清紀念幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "113",
+  "Time": "WD"
+}, {
+  "KindergartenName": "英揚樂兒中英文幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "112",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "神召會禮拜堂天澤幼兒園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "108",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港基督教服務處天恆幼兒學校",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "107",
+  "Time": "WD"
+}, {
+  "KindergartenName": "博愛醫院朱國京夫人紀念幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "106",
+  "Time": "WD"
+}, {
+  "KindergartenName": "仁濟醫院林李婉冰幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "97",
+  "Time": "WD"
+}, {
+  "KindergartenName": "中國基督教播道會天恩幼兒學校",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "95",
+  "Time": "WD"
+}, {
+  "KindergartenName": "新界婦孺福利會元朗幼兒學校",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "95",
+  "Time": "WD"
+}, {
+  "KindergartenName": "東華三院九龍崇德社幼兒園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "93",
+  "Time": "WD"
+}, {
+  "KindergartenName": "保良局廖笑霞幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "93",
+  "Time": "WD"
+}, {
+  "KindergartenName": "救世軍錦田幼兒學校",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "93",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港聖公會夏瑞芸幼兒學校",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "90",
+  "Time": "WD"
+}, {
+  "KindergartenName": "聖公會聖馬提亞堂幼兒學校",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "89",
+  "Time": "WD"
+}, {
+  "KindergartenName": "幼聯主辦安泰幼兒學校",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "86",
+  "Time": "WD"
+}, {
+  "KindergartenName": "殷翠幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "84",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "雅麗斯樂思幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "80",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "仁愛堂吳黃鳳英幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "79",
+  "Time": "WD"
+}, {
+  "KindergartenName": "元岡幼稚園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "78",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "禮賢會元朗幼兒園",
+  "District": "元朗區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "77",
+  "Time": "WD"
+}, {
+  "KindergartenName": "安基司幼稚園",
+  "District": "大埔區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "344",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "英藝幼稚園(大埔)",
+  "District": "大埔區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "290",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "香港教育大學幼兒發展中心(幼稚園部)",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "169",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "懋柏禮國際幼稚園(大埔)",
+  "District": "大埔區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "168",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "寶兒中英文幼稚園",
+  "District": "大埔區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "151",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "安基司國際幼兒園",
+  "District": "大埔區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "141",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "天主教聖保祿幼兒園",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "136",
+  "Time": "WD"
+}, {
+  "KindergartenName": "康樂園國際學校幼稚園部",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "136",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "挪威國際學校",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "108",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "綠茵英文(國際)幼稚園(嵐山)",
+  "District": "大埔區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "87",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "培亮國際幼稚園",
+  "District": "大埔區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "81",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "明雅國際幼兒學校",
+  "District": "大埔區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "56",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "安基司國際幼兒園",
+  "District": "大埔區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "52",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "大埔浸信會幼稚園",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "550",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "明雅中英文幼稚園",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "433",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "保良局鄧碧雲紀念幼稚園",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "338",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "基督教宣道會太和幼稚園",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "338",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "大埔禮賢會幼稚園(汀角路)",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "330",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "圓玄幼稚園(富善邨)",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "314",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "大埔循道衞理幼稚園",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "300",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "富亨浸信會呂郭碧鳳幼稚園",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "281",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "大埔浸信會幼稚園運頭塘邨分校",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "270",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖公會救主堂幼稚園",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "247",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "大埔禮賢會幼稚園(安富道)",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "225",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "天主教大埔幼稚園",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "206",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "東華三院洪王家琪幼稚園",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "205",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "大埔商會幼稚園",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "174",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "基督教香港崇真會安仁幼兒學校",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "130",
+  "Time": "WD"
+}, {
+  "KindergartenName": "竹園區神召會太和康樂幼兒學校",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "109",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港保護兒童會林護幼兒學校",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "102",
+  "Time": "WD"
+}, {
+  "KindergartenName": "基督教宣道會寶湖幼兒學校",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "100",
+  "Time": "WD"
+}, {
+  "KindergartenName": "中國基督教播道會寶雅幼兒學校",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "99",
+  "Time": "WD"
+}, {
+  "KindergartenName": "救世軍大元幼兒學校",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "92",
+  "Time": "WD"
+}, {
+  "KindergartenName": "仁愛堂張慕良夫人幼稚園",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "90",
+  "Time": "WD"
+}, {
+  "KindergartenName": "保良局劉進幼稚園",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "83",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "東華三院方麗明幼兒園",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "79",
+  "Time": "WD"
+}, {
+  "KindergartenName": "李榮基紀念中英文幼稚園",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "-",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "香港西區婦女福利會何瑞棠紀念中英文幼稚園",
+  "District": "大埔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "-",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "新一代英文幼稚園(屯門分校)",
+  "District": "屯門區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "359",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "加州天地幼稚園",
+  "District": "屯門區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "332",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "宏廣國際幼稚園",
+  "District": "屯門區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "152",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "哈羅香港國際學校",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "98",
+  "Time": "WD"
+}, {
+  "KindergartenName": "晶晶國際幼稚園",
+  "District": "屯門區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "53",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "約克國際幼稚園(屯門)",
+  "District": "屯門區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "34",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "心怡天地國際幼稚園(屯門)",
+  "District": "屯門區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "28",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "聖公會青山聖彼得堂兆麟苑幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "722",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖公會青山聖彼得堂幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "615",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "順德聯誼總會屯門梁李秀娛幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "588",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "保良局田家炳兆康幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "556",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "佳寶幼稚園(屯門分校)",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "544",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "保良局蔡冠深幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "480",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "保良局易桂芳幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "424",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "啟思幼稚園(屯門分校)",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "390",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "佳寶幼稚園第二分校(建生邨)",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "386",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "珈琳幼稚園(屯門分校)",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "342",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "東華三院馬陳家歡幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "336",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "雅麗斯英文幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "311",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "迦南幼稚園(景峰花園)",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "303",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "東華三院高德根紀念幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "288",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "啟思幼稚園(愛琴)",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "268",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "路德會呂祥光幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "249",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "真理浸信會富泰幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "216",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "樂善堂張葉茂清幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "191",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "田景邨浸信會呂郭碧鳳幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "189",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "中華基督教會屯門堂何福堂幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "186",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "仁愛堂葉德海幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "186",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖公會青山聖彼得堂山景邨幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "182",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "青松湖景幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "172",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "路德會建生幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "160",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "美樂中英文幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "157",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "仁濟醫院嚴徐玉珊幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "156",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "香港浸信會聯會寶田幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "140",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "仁愛堂顏寶鈴幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "139",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "樂善堂鄧德濂幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "134",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "天后中英文幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "125",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "世界龍岡學校朱瑞蘭(中英文)幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "123",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "香海蓮社兆禧苑幼稚園【已停辦】",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "122",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "美樂中英文幼稚園(景峰花園分校)",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "117",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "小牛頓中英文幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "113",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "天后中英文幼稚園(二校)",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "110",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "東華三院李黃慶祥紀念幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "105",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "香港聖公會聖西門良景幼兒學校",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "101",
+  "Time": "WD"
+}, {
+  "KindergartenName": "世佛會真言宗幼兒學校",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "98",
+  "Time": "WD"
+}, {
+  "KindergartenName": "保良局蝴蝶灣幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "95",
+  "Time": "WD"
+}, {
+  "KindergartenName": "保良局友愛幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "90",
+  "Time": "WD"
+}, {
+  "KindergartenName": "救世軍三聖幼兒學校",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "90",
+  "Time": "WD"
+}, {
+  "KindergartenName": "仁愛堂田家炳幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "89",
+  "Time": "WD"
+}, {
+  "KindergartenName": "中華基督教會屯門堂幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "86",
+  "Time": "WD"
+}, {
+  "KindergartenName": "仁愛堂劉皇發幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "86",
+  "Time": "WD"
+}, {
+  "KindergartenName": "世佛會觀自在幼兒學校",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "84",
+  "Time": "WD"
+}, {
+  "KindergartenName": "建生浸信會白普理幼兒園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "84",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港聖公會聖西門大興幼兒學校",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "83",
+  "Time": "WD"
+}, {
+  "KindergartenName": "東華三院方譚遠良幼兒園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "82",
+  "Time": "WD"
+}, {
+  "KindergartenName": "路德會富泰幼兒園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "82",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "東華三院田家炳幼兒園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "81",
+  "Time": "WD"
+}, {
+  "KindergartenName": "仁濟醫院山景幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "80",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港保護兒童會蝴蝶邨幼兒學校",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "80",
+  "Time": "WD"
+}, {
+  "KindergartenName": "晶晶幼稚園(屯門校)",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "80",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "仁濟醫院友愛幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "73",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港基督教女青年會安定幼兒學校",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "69",
+  "Time": "WD"
+}, {
+  "KindergartenName": "中華基督教會屯門堂幼稚園二校",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "65",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "路德會良景幼兒園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "60",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "美樂幼兒園(美樂花園校)",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "52",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "香港聖公會青山聖彼得堂青雲路幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "42",
+  "Time": "WD"
+}, {
+  "KindergartenName": "山景邨浸信會幼稚園",
+  "District": "屯門區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "-",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "學之園幼稚園(迎海)",
+  "District": "沙田區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "360",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "英基國際幼稚園(烏溪沙)",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "350",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "樂基幼兒學校(駿景園)",
+  "District": "沙田區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "300",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "康傑中英文幼稚園(馬鞍山)",
+  "District": "沙田區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "261",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "朗思國際幼稚園(馬鞍山)",
+  "District": "沙田區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "260",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "培僑國際幼稚園",
+  "District": "沙田區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "232",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "基督教國際學校－幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "212",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "心怡天地幼稚園(沙田)",
+  "District": "沙田區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "202",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "威寶中英文幼稚園",
+  "District": "沙田區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "187",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "綠茵英文幼稚園(馬鞍山)",
+  "District": "沙田區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "170",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "英藝幼稚園(沙田)",
+  "District": "沙田區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "160",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "德萃幼稚園(馬鞍山)",
+  "District": "沙田區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "157",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "嘉德麗中英文幼稚園",
+  "District": "沙田區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "150",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "博士山(香港)國際幼稚園",
+  "District": "沙田區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "136",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "康傑幼稚園(馬鞍山)",
+  "District": "沙田區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "98",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "博士山(香港)國際幼稚園－火炭",
+  "District": "沙田區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "72",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "好時光國際幼稚園",
+  "District": "沙田區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "64",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "小時候幼稚園",
+  "District": "沙田區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "53",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "大衛幼稚園",
+  "District": "沙田區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "27",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "威寶國際幼兒學校",
+  "District": "沙田區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "-",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "嘉德麗幼稚園",
+  "District": "沙田區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "-",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "童樂天國際幼稚園",
+  "District": "沙田區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "-",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "聖母無玷聖心幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "1168",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "救世軍田家炳幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "546",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "香港中文大學校友會聯會張煊昌幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "502",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "崇真會美善幼稚園(馬鞍山)",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "420",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "保良局吳多泰幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "405",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "合一堂單家傳紀念幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "385",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "保良局馮梁結紀念幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "360",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "馬鞍山靈糧幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "360",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "啟思幼稚園(帝堡城)",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "330",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "東華三院馬陳景霞幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "329",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "基督教神召會合一堂幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "324",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "耀榮中英文幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "300",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "東華三院廖恩德紀念幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "266",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "基督教宣道會頌安幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "250",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "香港基督教服務處雋樂幼稚園(沙田)",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "239",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "平安福音堂幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "220",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "救世軍中原慈善基金幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "219",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "廣林浸信會呂郭碧鳳幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "216",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "樂善堂李賢義幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "207",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "港九街坊婦女會孫方中幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "205",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "基督教香港崇真會安頌幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "196",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "真理浸信會碧濤幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "194",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "真理浸信會幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "193",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "聖公會靈風堂幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "191",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "真理浸信會恩典幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "184",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "九龍城浸信會禧年幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "176",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "中華基督教會沙田堂博康幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "169",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "樂善堂梁泳釗幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "162",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "基督教香港信義會沙田信義幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "161",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "仁愛堂鄭丁港夫人幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "161",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "順德聯誼總會梁李秀娛沙田幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "159",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "東華三院呂馮鳳紀念幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "157",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "救世軍禾輋幼兒學校",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "152",
+  "Time": "WD"
+}, {
+  "KindergartenName": "沙田靈光幼兒學校",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "151",
+  "Time": "WD"
+}, {
+  "KindergartenName": "救世軍乙明幼兒學校",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "148",
+  "Time": "WD"
+}, {
+  "KindergartenName": "基督教小天使(錦豐)幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "145",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "救世軍水泉澳幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "137",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "真理浸信會榮光幼兒園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "134",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "美林邨道光幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "133",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "香港神託會培真幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "132",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "慈光幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "120",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "明愛沙田幼兒學校",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "110",
+  "Time": "WD"
+}, {
+  "KindergartenName": "恆安浸信會幼兒學校",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "104",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港浸信會聯會利安幼兒園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "100",
+  "Time": "WD"
+}, {
+  "KindergartenName": "藍如溪盛成皿教育基金邊陳之娟幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "99",
+  "Time": "WD"
+}, {
+  "KindergartenName": "粵南信義會腓力堂愛鄰幼兒學園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "96",
+  "Time": "WD"
+}, {
+  "KindergartenName": "基督教香港信義會頌安幼兒學校",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "93",
+  "Time": "WD"
+}, {
+  "KindergartenName": "路德會愛心幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "92",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "東華三院南九龍獅子會幼兒園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "91",
+  "Time": "WD"
+}, {
+  "KindergartenName": "循理會白普理循理幼兒學校",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "88",
+  "Time": "WD"
+}, {
+  "KindergartenName": "港九街坊婦女會孫方中幼稚園(穗禾苑)",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "88",
+  "Time": "WD"
+}, {
+  "KindergartenName": "港九街坊婦女會丁孫慧珠幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "87",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港基督教女青年會隆亨幼兒學校",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "86",
+  "Time": "WD"
+}, {
+  "KindergartenName": "新界婦孺福利會博康幼兒學校",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "85",
+  "Time": "WD"
+}, {
+  "KindergartenName": "保良局唐楚男(瀝源)幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "84",
+  "Time": "WD"
+}, {
+  "KindergartenName": "基督教宣道會沙田幼兒學校",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "79",
+  "Time": "WD"
+}, {
+  "KindergartenName": "耀榮中英文幼稚園(愉田苑)",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "74",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "新九龍婦女會新翠幼兒園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "68",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港保護兒童會賽馬會學心幼兒學校",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "64",
+  "Time": "WD"
+}, {
+  "KindergartenName": "新九龍婦女會沙角幼兒園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "60",
+  "Time": "WD"
+}, {
+  "KindergartenName": "海福中英文幼稚園",
+  "District": "沙田區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "-",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "維多利亞(君匯港)幼稚園",
+  "District": "油尖旺",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "382",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "明慧國際幼稚園(太子分校)",
+  "District": "油尖旺",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "285",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "學之園幼稚園(凱帆薈)",
+  "District": "油尖旺",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "282",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "道爾頓幼稚園(西九龍)",
+  "District": "油尖旺",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "261",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "綠茵英文(國際)幼稚園(浪澄灣)",
+  "District": "油尖旺",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "224",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "樂希幼兒學校",
+  "District": "油尖旺",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "220",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "香港墨爾文國際幼稚園",
+  "District": "油尖旺",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "218",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "栢基國際幼稚園(九龍)",
+  "District": "油尖旺",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "207",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "港青基信國際幼稚園",
+  "District": "油尖旺",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "154",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "佐敦北海幼稚園",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "146",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "學之園幼稚園(奧運)",
+  "District": "油尖旺",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "120",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "匯豐幼兒學校",
+  "District": "油尖旺",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "101",
+  "Time": "WD"
+}, {
+  "KindergartenName": "蔚思幼稚園",
+  "District": "油尖旺",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "97",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "德信幼稚園",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "420",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "迦南幼稚園(富榮花園)",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "342",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "明我幼稚園(奧運校)",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "330",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "深培中英文幼稚園",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "330",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "中華基督教會望覺堂賢貞幼稚園",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "283",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "太陽島幼稚園(港灣豪庭分校)",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "240",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "救世軍陳昆棟幼稚園",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "238",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "聖美雅學校(幼稚園)",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "204",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "大同新邨聖德肋撒幼稚園",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "161",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "香港保護兒童會砵蘭街幼兒學校",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "150",
+  "Time": "WD"
+}, {
+  "KindergartenName": "百佳員工慈善基金幼兒學校",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "147",
+  "Time": "WD"
+}, {
+  "KindergartenName": "旺角雅麗斯英文幼稚園",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "142",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "Little Buds 幼稚園",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "122",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "救世軍海富幼兒學校",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "107",
+  "Time": "WD"
+}, {
+  "KindergartenName": "匯豐銀行慈善基金幼兒學校",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "104",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港青年協會青樂幼稚園(油麻地)",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "102",
+  "Time": "WD"
+}, {
+  "KindergartenName": "仁愛堂陳鄭玉而幼稚園",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "101",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港基督教服務處雋匯幼兒學校",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "100",
+  "Time": "WD"
+}, {
+  "KindergartenName": "救世軍卜凱賽琳幼兒學校",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "100",
+  "Time": "WD"
+}, {
+  "KindergartenName": "啟文幼稚園",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "93",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "油麻地循道衞理楊震幼兒學校",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "91",
+  "Time": "WD"
+}, {
+  "KindergartenName": "協康會康苗幼兒園",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "89",
+  "Time": "WD"
+}, {
+  "KindergartenName": "保良局呂錦泰幼稚園",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "89",
+  "Time": "WD"
+}, {
+  "KindergartenName": "救世軍荔枝角幼兒學校",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "89",
+  "Time": "WD"
+}, {
+  "KindergartenName": "駿發花園浸信會幼兒學校",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "83",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港保護兒童會中銀幼兒學校",
+  "District": "油尖旺",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "81",
+  "Time": "WD"
+}, {
+  "KindergartenName": "九龍禮賢學校暨幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "540",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "學之園幼稚園(星匯居)",
+  "District": "深水埗",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "364",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "約克蒙特梭利國際幼稚園(美孚)",
+  "District": "深水埗",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "299",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "朗思國際幼稚園(南昌)",
+  "District": "深水埗",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "236",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "德萃幼稚園",
+  "District": "深水埗",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "172",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "雅士圖國際幼稚園",
+  "District": "深水埗",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "102",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "九龍嘉心中英文幼稚園",
+  "District": "深水埗",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "82",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "浸信會奧基英文幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "79",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "港青基信國際幼稚園(西九龍)",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "76",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "漢迪國際幼稚園",
+  "District": "深水埗",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "57",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "橄欖樹國際幼稚園",
+  "District": "深水埗",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "23",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "又一村學校",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "1344",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "崇真小學暨幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "780",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "德貞幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "588",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "香港靈糧堂秀德幼稚園(二校)",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "458",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "仁愛堂龐盧淑燕幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "390",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "佳寶幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "341",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "中華基督教會協和幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "297",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "香港基督教女青年會宏恩幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "264",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "地利亞英文小學暨幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "263",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "救世軍蘇屋幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "262",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖公會深水埗基愛堂幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "246",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "宣道會雷蔡群樂幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "240",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "保良局劉陳小寶幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "232",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "崇真會白田美善幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "228",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖多馬堂幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "221",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "佛教曾果成中英文幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "220",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "宣美幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "217",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "西太平洋幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "199",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "深水埗浸信會幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "198",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "寶血幼稚園(深水埗)",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "190",
+  "Time": "WD"
+}, {
+  "KindergartenName": "基督教挪威差會主辦信義中英文幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "182",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "香港基督教服務處大坑東幼兒學校",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "177",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港基督教服務處石硤尾幼兒學校",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "168",
+  "Time": "WD"
+}, {
+  "KindergartenName": "智樂幼稚園(南昌街)",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "163",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "基督教香港信義會南昌幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "146",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "基督教香港崇真會安康幼兒學校(順寧道)",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "141",
+  "Time": "WD"
+}, {
+  "KindergartenName": "中華基督教會基真幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "139",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "香港基督教服務處李鄭屋幼兒學校",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "139",
+  "Time": "WD"
+}, {
+  "KindergartenName": "浸信會愛羣社會服務處培殷幼兒學校",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "139",
+  "Time": "WD"
+}, {
+  "KindergartenName": "雅各中英文幼稚園(深水埗校)",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "131",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "中華基督教會深愛堂幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "119",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "香港靈糧堂秀德幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "114",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "香港保護兒童會長沙灣幼兒學校",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "106",
+  "Time": "WD"
+}, {
+  "KindergartenName": "竹園區神召會南昌康樂幼兒學校",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "97",
+  "Time": "WD"
+}, {
+  "KindergartenName": "長沙灣街坊福利會林譚燕華幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "95",
+  "Time": "WD"
+}, {
+  "KindergartenName": "保良局梁安琪幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "93",
+  "Time": "WD"
+}, {
+  "KindergartenName": "深信堂幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "91",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "香港聖公會基愛幼兒學校",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "90",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港基督教女青年會趙靄華幼兒學校",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "85",
+  "Time": "WD"
+}, {
+  "KindergartenName": "救世軍白田幼兒學校",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "78",
+  "Time": "WD"
+}, {
+  "KindergartenName": "深水埗德善幼稚園",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "76",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "香港基督教女青年會紹邦幼兒學校",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "73",
+  "Time": "WD"
+}, {
+  "KindergartenName": "智樂幼稚園(大南街)",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "36",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "佳寶幼稚園(南昌分校)",
+  "District": "深水埗",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "-",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "香港真光中學幼稚園",
+  "District": "灣仔區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "540",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "聖公會幼稚園",
+  "District": "灣仔區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "540",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "聖保祿幼稚園",
+  "District": "灣仔區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "540",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "寶山幼兒園",
+  "District": "灣仔區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "476",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "英基國際幼稚園(曉新)",
+  "District": "灣仔區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "410",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "玫瑰崗幼稚園",
+  "District": "灣仔區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "405",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "法國國際學校",
+  "District": "灣仔區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "240",
+  "Time": "WD"
+}, {
+  "KindergartenName": "聖保祿幼兒園",
+  "District": "灣仔區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "218",
+  "Time": "WD"
+}, {
+  "KindergartenName": "善行國際幼稚園",
+  "District": "灣仔區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "153",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "保良局建造商會學校",
+  "District": "灣仔區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "135",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "樂林國際學校(跑馬地)",
+  "District": "灣仔區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "93",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "帝京香港幼稚園",
+  "District": "灣仔區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "88",
+  "Time": "AM"
+}, {
+  "KindergartenName": "Bambino English Playschool",
+  "District": "灣仔區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "83",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "啟蒙創新幼稚園",
+  "District": "灣仔區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "27",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "香港靈糧堂幼稚園",
+  "District": "灣仔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "780",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "寶血幼稚園",
+  "District": "灣仔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "680",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "天主教聖瑪加利大幼稚園",
+  "District": "灣仔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "492",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "愛群道浸信會呂郭碧鳳幼稚園",
+  "District": "灣仔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "353",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "中華基督教會灣仔堂幼稚園",
+  "District": "灣仔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "297",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "保良局莊啟程幼稚園",
+  "District": "灣仔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "206",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖雅各福群會麥潔蓮幼稚園",
+  "District": "灣仔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "121",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港小童群益會樂緻幼稚園(灣仔)",
+  "District": "灣仔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "101",
+  "Time": "WD"
+}, {
+  "KindergartenName": "聖雅各福群會銅鑼灣幼稚園",
+  "District": "灣仔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "99",
+  "Time": "WD"
+}, {
+  "KindergartenName": "聖公會聖基道幼兒園(灣仔)",
+  "District": "灣仔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "90",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港基督教服務處時代幼兒學校",
+  "District": "灣仔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "81",
+  "Time": "WD"
+}, {
+  "KindergartenName": "穆斯林幼稚園",
+  "District": "灣仔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "79",
+  "Time": "AM"
+}, {
+  "KindergartenName": "保良局朱李月華幼稚園",
+  "District": "灣仔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "75",
+  "Time": "WD"
+}, {
+  "KindergartenName": "東華三院李賢義伉儷幼兒園",
+  "District": "灣仔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "67",
+  "Time": "WD"
+}, {
+  "KindergartenName": "卡莎迪曼幼稚園",
+  "District": "灣仔區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "18",
+  "Time": "AM"
+}, {
+  "KindergartenName": "綠楊幼稚園",
+  "District": "荃灣區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "390",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "心怡天地幼稚園(麗城)",
+  "District": "荃灣區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "239",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "慧中幼稚園",
+  "District": "荃灣區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "122",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "心怡天地幼稚園",
+  "District": "荃灣區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "118",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "海濱方方樂趣幼稚園",
+  "District": "荃灣區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "103",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "思博幼稚園",
+  "District": "荃灣區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "75",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "維多利亞(海之戀)國際幼稚園",
+  "District": "荃灣區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "-",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "荃灣聖母幼稚園",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "450",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "迦南幼稚園(荃灣)",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "408",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "救世軍吳國偉紀念幼稚園",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "360",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "栢基海韻幼稚園",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "352",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "香港靈糧堂荃灣幼稚園",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "346",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "滿樂幼稚園",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "339",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "荃灣浸信會幼稚園",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "324",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "天主教領報幼稚園",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "289",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "啟思幼稚園(馬灣)",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "287",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖文嘉中英文幼稚園(荃灣)",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "250",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "福來邨錦全幼稚園",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "241",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "圓玄幼稚園(石圍角)",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "232",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "迦南幼稚園(海濱花園)",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "228",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "全完堂幼稚園",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "224",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "611 生命樹幼稚園",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "210",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "救世軍荃灣幼兒學校",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "174",
+  "Time": "WD"
+}, {
+  "KindergartenName": "基督教安得兒幼稚園",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "170",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "世德幼稚園(梨木樹)",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "162",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "仁濟醫院蔡百泰幼稚園",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "148",
+  "Time": "WD"
+}, {
+  "KindergartenName": "聖文嘉幼稚園(荃灣)",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "132",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "萌兒幼稚園",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "129",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "香港基督教女青年會荃灣幼兒學校",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "126",
+  "Time": "WD"
+}, {
+  "KindergartenName": "聖安多尼中英文幼稚園(麗城花園)",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "123",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "保良局方譚遠良幼稚園",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "111",
+  "Time": "WD"
+}, {
+  "KindergartenName": "荃灣聖多明尼幼稚園",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "105",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "救世軍梨木樹幼兒學校",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "105",
+  "Time": "WD"
+}, {
+  "KindergartenName": "藍如溪盛成皿教育基金邊耀良幼稚園",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "101",
+  "Time": "WD"
+}, {
+  "KindergartenName": "中華基督教會福幼幼稚園",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "88",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "基督教安得兒幼稚園(灣景)",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "88",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "香港保護兒童會深井幼兒學校",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "85",
+  "Time": "WD"
+}, {
+  "KindergartenName": "保良局志沛幼稚園",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "84",
+  "Time": "WD"
+}, {
+  "KindergartenName": "神召會麥嘉倫紀念幼稚園",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "75",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "中華基督教會福幼第二幼稚園",
+  "District": "荃灣區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "67",
+  "Time": "WD"
+}, {
+  "KindergartenName": "英基國際幼稚園(青衣)",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "464",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "學之園幼稚園",
+  "District": "葵青區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "290",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "康傑中英文幼稚園(青衣南)",
+  "District": "葵青區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "167",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "康傑中英文幼稚園(青衣)",
+  "District": "葵青區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "110",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "朗思國際幼稚園(美孚)",
+  "District": "葵青區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "76",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "卓思英文學校暨幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "495",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "葵涌浸信會幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "460",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "保良局田家炳幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "422",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "啟思幼稚園(青衣)",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "352",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖公會荊冕堂士德幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "348",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "天主教聖多默幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "345",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "聖公會荊冕堂葵涌幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "300",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖斯德望天主教幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "298",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "嘉言中英文幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "292",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "東華三院王胡麗明幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "285",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "保良局曹金霖夫人幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "267",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "東華三院譚錦球伉儷幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "261",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "平安福音堂幼稚園(青衣)",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "256",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "香港聖公會基督顯現堂幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "255",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "救世軍富強幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "240",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "宏福中英文幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "235",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "荃浸石籬幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "226",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "葵盛禮賢會幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "207",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "太陽島英文幼稚園(葵景分校)",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "205",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "太陽島英文幼稚園(葵興分校)",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "193",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "中華基督教青年會葵涌幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "191",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "中華基督教會全完幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "174",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "荃灣商會邱健峰幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "167",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "青衣商會幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "166",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "荃灣商會朱昌幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "159",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "路德會恩石幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "155",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "主蔭幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "153",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "保良局張心瑜幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "148",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "循道衞理聯合教會亞斯理幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "144",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "崇基幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "137",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "世佛會文殊幼兒學校",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "135",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "保良局譚華正夫人幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "130",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "荃灣商會鍾來幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "129",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "香港聖公會麥理浩夫人中心(石蔭)幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "123",
+  "Time": "WD"
+}, {
+  "KindergartenName": "樂景幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "123",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "保良局李俊駒伉儷幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "119",
+  "Time": "WD"
+}, {
+  "KindergartenName": "仁濟醫院董伯英幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "116",
+  "Time": "WD"
+}, {
+  "KindergartenName": "救世軍大窩口幼兒學校",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "115",
+  "Time": "WD"
+}, {
+  "KindergartenName": "善正幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "115",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "保良局呂陳慧貞(葵芳)幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "108",
+  "Time": "WD"
+}, {
+  "KindergartenName": "仁愛堂彭鴻樟幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "105",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "青衣商會石蔭幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "105",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "宏福幼兒園 ‧ 宏福幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "96",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "協康會上海總會康苗幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "90",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "仁濟醫院九龍崇德社幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "89",
+  "Time": "WD"
+}, {
+  "KindergartenName": "仁濟醫院裘錦秋幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "89",
+  "Time": "WD"
+}, {
+  "KindergartenName": "基督教香港信義會天恩幼兒學校",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "87",
+  "Time": "WD"
+}, {
+  "KindergartenName": "禮賢會荔景幼兒園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "87",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "東華三院香港鑪峯獅子會幼兒園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "84",
+  "Time": "WD"
+}, {
+  "KindergartenName": "聖公會聖基道幼兒園(葵涌)",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "84",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港聖公會麥理浩夫人中心幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "82",
+  "Time": "WD"
+}, {
+  "KindergartenName": "伊斯蘭博愛幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "80",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "香港聖公會聖尼哥拉幼兒學校",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "79",
+  "Time": "WD"
+}, {
+  "KindergartenName": "路德會青衣城幼兒園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "79",
+  "Time": "WD"
+}, {
+  "KindergartenName": "基督教香港信義會靈工幼兒學校",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "78",
+  "Time": "WD"
+}, {
+  "KindergartenName": "富瑤幼稚園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "77",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "路德會長青幼兒園",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "71",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "新界婦孺福利會長發幼兒學校",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "69",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港基督教女青年會長青幼兒學校",
+  "District": "葵青區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "66",
+  "Time": "WD"
+}, {
+  "KindergartenName": "學之園幼稚園(海翩康城)",
+  "District": "西貢區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "348",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "翠茵小宇宙幼稚園",
+  "District": "西貢區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "300",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "綠茵英文(國際)幼稚園(日出康城)",
+  "District": "西貢區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "262",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "英基國際幼稚園(雅柏)",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "240",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "德寶英文幼稚園(將軍澳)",
+  "District": "西貢區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "207",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "綠茵英文(國際)幼稚園(將軍澳)",
+  "District": "西貢區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "180",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "約克蒙特梭利國際幼稚園(將軍澳)",
+  "District": "西貢區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "176",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "樂林國際學校(西貢)",
+  "District": "西貢區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "158",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "英藝幼稚園(將軍澳)",
+  "District": "西貢區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "157",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "博士山(香港)國際幼稚園－將軍澳",
+  "District": "西貢區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "145",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "諾德安達國際幼稚園(西貢)",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "140",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "法國國際學校",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "125",
+  "Time": "WD"
+}, {
+  "KindergartenName": "耀中國際幼稚園(將軍澳)",
+  "District": "西貢區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "108",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "楓葉小熊加拿大國際幼稚園",
+  "District": "西貢區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "106",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聯合基督教音樂幼稚園【已停辦】",
+  "District": "西貢區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "102",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "香港學堂國際學校",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "90",
+  "Time": "AM"
+}, {
+  "KindergartenName": "Garden House Waldorf Kindergarten",
+  "District": "西貢區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "90",
+  "Time": "AM"
+}, {
+  "KindergartenName": "德寶英文幼稚園(將軍澳)",
+  "District": "西貢區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "88",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "樂思創意幼稚園",
+  "District": "西貢區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "84",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "茵維特幼稚園",
+  "District": "西貢區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "80",
+  "Time": "WD"
+}, {
+  "KindergartenName": "樂必津法國幼稚園",
+  "District": "西貢區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "58",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "Leapfrog Kindergarten",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "50",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "Les Petits Lascars 國際幼稚園(將軍澳)",
+  "District": "西貢區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "45",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "德寶國際幼兒學校(寶盈花園)",
+  "District": "西貢區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "44",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "西貢國際幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "40",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "小蜜蜂幼稚園",
+  "District": "西貢區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "38",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "西貢蒙特梭利幼稚園",
+  "District": "西貢區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "36",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "Guidepost 蒙特梭利國際幼稚園(清水灣)",
+  "District": "西貢區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "19",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "德寶國際幼兒學校(將軍澳)",
+  "District": "西貢區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "-",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "欣研幼稚園",
+  "District": "西貢區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "-",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "迦南幼稚園(將軍澳)",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "-",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "保良局方王換娣幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "454",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "天主教聖安德肋幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "420",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "基督教宣道會茵怡幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "382",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "西貢樂育幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "347",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "東華三院香港華都獅子會幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "322",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "青衣商會將軍澳幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "300",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "救世軍慶恩幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "297",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "中華基督教會香港志道堂基博幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "287",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "將軍澳宣道幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "262",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "東華三院力勤幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "258",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "保良局葉吳彬彬幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "244",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "翠林邨浸信會幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "229",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "比華利中英文幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "227",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "將軍澳循道衞理幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "226",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "太陽島英文幼稚園(西貢分校)",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "206",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "香港浸信會聯會香港西北扶輪社幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "199",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "歡樂創意幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "176",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "基督教樂道幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "162",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "竹園區神召會梁省德中英文幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "156",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "基督教香港信義會將軍澳幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "154",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "崇真會美善幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "137",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "大埔商會張學明幼稚園(將軍澳)【已停辦】",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "134",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "觀塘浸信會彩明幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "129",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "嗇色園主辦可正幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "125",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "保良局蔡繼有幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "123",
+  "Time": "WD"
+}, {
+  "KindergartenName": "將軍澳英皇幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "123",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "香港華人基督會煜明幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "121",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "香港神託會培恩幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "116",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "救世軍明德幼兒學校",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "110",
+  "Time": "WD"
+}, {
+  "KindergartenName": "竹園區神召會將軍澳康樂幼兒學校",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "106",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港保護兒童會施吳淑敏幼兒學校",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "102",
+  "Time": "WD"
+}, {
+  "KindergartenName": "中國基督教播道會厚恩堂厚恩幼兒學校",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "93",
+  "Time": "WD"
+}, {
+  "KindergartenName": "仁愛堂鄧楊詠曼幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "90",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "香港小童群益會樂緻幼稚園(將軍澳)",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "89",
+  "Time": "WD"
+}, {
+  "KindergartenName": "中國基督教播道會茵怡幼兒學校",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "89",
+  "Time": "WD"
+}, {
+  "KindergartenName": "基督教香港信義會健明幼兒學校",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "84",
+  "Time": "WD"
+}, {
+  "KindergartenName": "明愛翠林幼兒學校",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "77",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港保護兒童會維景灣幼兒學校",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "74",
+  "Time": "WD"
+}, {
+  "KindergartenName": "路德會景林幼兒園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "71",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "基督教聖約教會司務道幼稚園",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "62",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "香港聖公會聖西門西貢幼兒學校",
+  "District": "西貢區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "46",
+  "Time": "WD"
+}, {
+  "KindergartenName": "朗思國際幼稚園",
+  "District": "觀塘區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "270",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "苗士國際幼稚園",
+  "District": "觀塘區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "81",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "德福英文幼稚園",
+  "District": "觀塘區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "52",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "啟歷學校(九龍灣)",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "46",
+  "Time": "WD"
+}, {
+  "KindergartenName": "官塘浸信會幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "564",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "佛教金麗幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "480",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "藍田靈糧幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "464",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "迦南幼稚園(麗港城)",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "408",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "啟思幼稚園(匯景花園)",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "360",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖巴拿巴堂幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "346",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "保良局李樹福幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "320",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "中華基督教會基法幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "318",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "鯉魚門循道衞理幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "312",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖安當幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "300",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "路德會陳蒙恩幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "300",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "基督教小天使(麗晶)幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "293",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "啟思幼兒園(匯景)",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "283",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "東華三院何藍瓊纓幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "270",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "觀塘循道幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "269",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "樂善堂文吳泳沂幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "256",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "救世軍平田幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "243",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "天主教彩霞邨潔心幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "236",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "善一堂安逸幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "225",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "基督教中心幼稚園(油塘)",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "225",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "香港基督教服務處雋樂幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "224",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "德福幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "223",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖公會慈光堂聖匠幼稚園(分校)",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "190",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "香港路德會觀塘幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "180",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "香港基督教服務處觀塘幼兒學校",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "179",
+  "Time": "WD"
+}, {
+  "KindergartenName": "順德聯誼總會梁潔華幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "177",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "晶晶幼稚園(順利分校)",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "174",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "中華基督教會基華幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "170",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "平安福音堂幼稚園(牛頭角)",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "165",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "宣道會秀茂坪陳李詠貞幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "161",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "康盈中英文幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "155",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "東華三院黃士心幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "153",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "圓玄幼稚園(平田邨)",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "153",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "基督教小樹苗幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "152",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "路德會沙崙堂幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "150",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "基督教家庭服務中心楊蔡慧嫻紀念幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "139",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "光愛樂幼稚園(安泰)",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "138",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "保良局方王錦全幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "136",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "基督教宣道會安泰幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "135",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "天主教聖雅各伯幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "132",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "鑽石山浸信會美欣幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "127",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "救世軍中原慈善基金油塘幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "126",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "路德會聖腓力堂幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "124",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "中華傳道會基石幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "123",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "保良局鄭關巧妍幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "123",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港青年協會鄭堅固幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "122",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "聖公會慈光堂聖匠幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "118",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "飛雁幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "113",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "佛教慈慧幼兒園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "109",
+  "Time": "WD"
+}, {
+  "KindergartenName": "保良局吳寶玲幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "108",
+  "Time": "WD"
+}, {
+  "KindergartenName": "基督教家庭服務中心趣樂幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "107",
+  "Time": "WD"
+}, {
+  "KindergartenName": "博愛醫院陳徐鳳蘭幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "107",
+  "Time": "WD"
+}, {
+  "KindergartenName": "基督教家庭服務中心德田幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "105",
+  "Time": "WD"
+}, {
+  "KindergartenName": "博愛醫院施淑鎮幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "104",
+  "Time": "WD"
+}, {
+  "KindergartenName": "港澳信義會翠恩幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "104",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "明愛油塘幼兒學校",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "102",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港保護兒童會譚雅士伉儷幼兒學校",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "99",
+  "Time": "WD"
+}, {
+  "KindergartenName": "保良局李筱參幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "98",
+  "Time": "WD"
+}, {
+  "KindergartenName": "聖母潔心會福音秀茂坪幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "98",
+  "Time": "WD"
+}, {
+  "KindergartenName": "禮賢會順天幼兒園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "98",
+  "Time": "WD"
+}, {
+  "KindergartenName": "花園大廈浸信會幼兒學校",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "97",
+  "Time": "WD"
+}, {
+  "KindergartenName": "坪石英皇幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "96",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "香港學生輔助會寶達幼兒園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "95",
+  "Time": "WD"
+}, {
+  "KindergartenName": "基督教香港崇真會安怡幼兒學校",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "94",
+  "Time": "WD"
+}, {
+  "KindergartenName": "香港小童群益會樂緻幼稚園(九龍灣)",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "92",
+  "Time": "WD"
+}, {
+  "KindergartenName": "天主教聖雲先幼兒學校",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "90",
+  "Time": "WD"
+}, {
+  "KindergartenName": "新九龍婦女會樂華幼兒園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "90",
+  "Time": "WD"
+}, {
+  "KindergartenName": "東華三院陳嫺幼兒園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "89",
+  "Time": "WD"
+}, {
+  "KindergartenName": "保良局黃樹雄幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "89",
+  "Time": "WD"
+}, {
+  "KindergartenName": "官塘雅麗斯英文幼稚園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "86",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "粵南信義會腓力堂啟業幼兒學園",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "85",
+  "Time": "WD"
+}, {
+  "KindergartenName": "基督教香港信義會靈安幼兒學校",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "83",
+  "Time": "WD"
+}, {
+  "KindergartenName": "明愛鯉魚門幼兒學校",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "81",
+  "Time": "WD"
+}, {
+  "KindergartenName": "基督教聯合醫務協會幼兒學校",
+  "District": "觀塘區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "51",
+  "Time": "WD"
+}, {
+  "KindergartenName": "英基國際幼稚園(東涌)",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "351",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "弘志幼稚園(東涌)",
+  "District": "離島區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "180",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "愉景灣國際學校",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "-",
+  "Scope": "154",
+  "Time": "WD"
+}, {
+  "KindergartenName": "綠茵英文(國際)幼稚園(東涌)",
+  "District": "離島區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "120",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "弘志幼稚園",
+  "District": "離島區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "90",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "艾思維國際幼稚園(大嶼山)",
+  "District": "離島區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "75",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "香港國際蒙特梭利學校",
+  "District": "離島區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "74",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "Sunshine 國際幼稚園",
+  "District": "離島區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "66",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "香港國際蒙特梭利學校",
+  "District": "離島區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "56",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "Guidepost 蒙特梭利國際幼稚園(愉景灣)",
+  "District": "離島區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "35",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "小大嶼山蒙特梭利幼稚園",
+  "District": "離島區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "29",
+  "Time": "AM"
+}, {
+  "KindergartenName": "La Petite Enfance Kindergarten",
+  "District": "離島區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "25",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "銀礦灣學校",
+  "District": "離島區",
+  "Type": "私立",
+  "Free": "-",
+  "Scope": "16",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "金巴崙長老會青草地幼稚園",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "400",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "保良局張潘美意幼稚園",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "376",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "善一堂逸東幼稚園",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "299",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "佛教真如幼稚園(東涌)",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "255",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "太陽島幼稚園(東涌分校)",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "222",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "救世軍源林潔和幼稚園",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "220",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "基督徒信望愛堂逸東幼稚園",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "174",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "中華基督教會長洲堂錦江幼稚園",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "158",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "東涌浸信會幼稚園",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "157",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "東涌天主教幼稚園",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "146",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "天主教露德聖母幼稚園",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "128",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "路德會陳恩美幼兒園",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "125",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "香港基督教女青年會趣沂幼稚園",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "122",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "佛教張梅桂幼稚園",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "101",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "長洲聖心幼稚園",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "100",
+  "Time": "AM,PM,WD"
+}, {
+  "KindergartenName": "鄰舍輔導會東欣幼兒園",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "100",
+  "Time": "WD"
+}, {
+  "KindergartenName": "鄰舍輔導會東涌幼兒園",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "99",
+  "Time": "WD"
+}, {
+  "KindergartenName": "國民學校漢師中英文幼稚園",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "87",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "力行幼稚園(南便圍)",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "78",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "香港聖公會東涌幼兒學校",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "76",
+  "Time": "WD"
+}, {
+  "KindergartenName": "南英幼稚園",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "62",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "路德會呂君博幼兒園",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "55",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "基督教宣道會大澳幼稚園",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "39",
+  "Time": "AM,WD"
+}, {
+  "KindergartenName": "力行幼稚園(梅窩鄉事會路)",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "30",
+  "Time": "AM,PM"
+}, {
+  "KindergartenName": "惠平幼稚園",
+  "District": "離島區",
+  "Type": "非牟利",
+  "Free": "Free",
+  "Scope": "29",
+  "Time": "AM,PM,WD"
+}]
